@@ -1,4 +1,4 @@
-# SAS-Data-Analysis-Project
+# Data-Analysis-Project-using-SAS-Programming
 **Project 1: Movie Analysis**
 
 Project Aims:
